@@ -1431,7 +1431,7 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'external' => '0',
     'has_children' => '0',
     'expanded' => '0',
-    'weight' => '-46',
+    'weight' => '-45',
     'parent_path' => '<front>',
   );
   // Exported menu link: menu-megamenu:node/12365
@@ -1450,7 +1450,7 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'external' => '0',
     'has_children' => '0',
     'expanded' => '0',
-    'weight' => '-45',
+    'weight' => '-44',
     'parent_path' => '<front>',
   );
   // Exported menu link: menu-megamenu:node/12366
@@ -1469,7 +1469,7 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'external' => '0',
     'has_children' => '0',
     'expanded' => '0',
-    'weight' => '-44',
+    'weight' => '-43',
     'parent_path' => '<front>',
   );
   // Exported menu link: menu-megamenu:node/12367
@@ -1488,7 +1488,7 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'external' => '0',
     'has_children' => '0',
     'expanded' => '0',
-    'weight' => '-43',
+    'weight' => '-42',
     'parent_path' => '<front>',
   );
   // Exported menu link: menu-megamenu:node/12368
@@ -1507,7 +1507,7 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'external' => '0',
     'has_children' => '0',
     'expanded' => '0',
-    'weight' => '-42',
+    'weight' => '-41',
     'parent_path' => '<front>',
   );
   // Exported menu link: menu-megamenu:node/12369
@@ -1526,7 +1526,7 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'external' => '0',
     'has_children' => '0',
     'expanded' => '0',
-    'weight' => '-40',
+    'weight' => '-39',
     'parent_path' => '<front>',
   );
   // Exported menu link: menu-megamenu:node/12370
@@ -1659,7 +1659,7 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'external' => '0',
     'has_children' => '0',
     'expanded' => '0',
-    'weight' => '-41',
+    'weight' => '-40',
     'parent_path' => '<front>',
   );
   // Exported menu link: menu-megamenu:node/12377
@@ -2156,25 +2156,6 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'weight' => '-40',
     'parent_path' => '<front>',
   );
-  // Exported menu link: menu-megamenu:node/12409
-  $menu_links['menu-megamenu:node/12409'] = array(
-    'menu_name' => 'menu-megamenu',
-    'link_path' => 'node/12409',
-    'router_path' => 'node/%',
-    'link_title' => 'Rules Engine',
-    'options' => array(
-      'attributes' => array(
-        'title' => '',
-      ),
-    ),
-    'module' => 'menu',
-    'hidden' => '0',
-    'external' => '0',
-    'has_children' => '0',
-    'expanded' => '0',
-    'weight' => '-43',
-    'parent_path' => '<front>',
-  );
   // Exported menu link: menu-megamenu:node/12410
   $menu_links['menu-megamenu:node/12410'] = array(
     'menu_name' => 'menu-megamenu',
@@ -2495,7 +2476,7 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'external' => '0',
     'has_children' => '0',
     'expanded' => '0',
-    'weight' => '-39',
+    'weight' => '-38',
     'parent_path' => '<front>',
   );
   // Exported menu link: menu-megamenu:node/12427
@@ -2667,25 +2648,6 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'has_children' => '0',
     'expanded' => '0',
     'weight' => '-35',
-    'parent_path' => '<front>',
-  );
-  // Exported menu link: menu-megamenu:node/12448
-  $menu_links['menu-megamenu:node/12448'] = array(
-    'menu_name' => 'menu-megamenu',
-    'link_path' => 'node/12448',
-    'router_path' => 'node/%',
-    'link_title' => 'Patient Portal',
-    'options' => array(
-      'attributes' => array(
-        'title' => '',
-      ),
-    ),
-    'module' => 'menu',
-    'hidden' => '0',
-    'external' => '0',
-    'has_children' => '0',
-    'expanded' => '0',
-    'weight' => '-50',
     'parent_path' => '<front>',
   );
   // Exported menu link: menu-megamenu:node/12449
@@ -3056,7 +3018,6 @@ function d7pf_megamenu_links_menu_default_menu_links() {
   t('Patient Ins. Eligiblity');
   t('Patient Lookup');
   t('Patient Payments');
-  t('Patient Portal');
   t('Patient Recalls');
   t('Payment Batches');
   t('Payments');
@@ -3080,7 +3041,6 @@ function d7pf_megamenu_links_menu_default_menu_links() {
   t('Resource');
   t('Resource Schedule');
   t('Right Chart Panel');
-  t('Rules Engine');
   t('Rx -Prescriptions');
   t('Ryan White HIV/AIDS Program');
   t('Scheduled Jobs');
