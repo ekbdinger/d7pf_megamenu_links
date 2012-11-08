@@ -348,7 +348,7 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'external' => '0',
     'has_children' => '0',
     'expanded' => '0',
-    'weight' => '-41',
+    'weight' => '-40',
     'parent_path' => '<front>',
   );
   // Exported menu link: menu-megamenu:node/12306
@@ -1108,7 +1108,7 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'external' => '0',
     'has_children' => '0',
     'expanded' => '0',
-    'weight' => '-43',
+    'weight' => '-42',
     'parent_path' => '<front>',
   );
   // Exported menu link: menu-megamenu:node/12348
@@ -1146,7 +1146,7 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'external' => '0',
     'has_children' => '0',
     'expanded' => '0',
-    'weight' => '-40',
+    'weight' => '-39',
     'parent_path' => '<front>',
   );
   // Exported menu link: menu-megamenu:node/12350
@@ -1165,7 +1165,7 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'external' => '0',
     'has_children' => '0',
     'expanded' => '0',
-    'weight' => '-39',
+    'weight' => '-38',
     'parent_path' => '<front>',
   );
   // Exported menu link: menu-megamenu:node/12351
@@ -1203,7 +1203,7 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'external' => '0',
     'has_children' => '0',
     'expanded' => '0',
-    'weight' => '-36',
+    'weight' => '-35',
     'parent_path' => '<front>',
   );
   // Exported menu link: menu-megamenu:node/12353
@@ -1222,7 +1222,7 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'external' => '0',
     'has_children' => '0',
     'expanded' => '0',
-    'weight' => '-35',
+    'weight' => '-34',
     'parent_path' => '<front>',
   );
   // Exported menu link: menu-megamenu:node/12354
@@ -1279,7 +1279,7 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'external' => '0',
     'has_children' => '0',
     'expanded' => '0',
-    'weight' => '-38',
+    'weight' => '-37',
     'parent_path' => '<front>',
   );
   // Exported menu link: menu-megamenu:node/12357
@@ -1298,7 +1298,7 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'external' => '0',
     'has_children' => '0',
     'expanded' => '0',
-    'weight' => '-42',
+    'weight' => '-41',
     'parent_path' => '<front>',
   );
   // Exported menu link: menu-megamenu:node/12358
@@ -1317,7 +1317,7 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'external' => '0',
     'has_children' => '0',
     'expanded' => '0',
-    'weight' => '-37',
+    'weight' => '-36',
     'parent_path' => '<front>',
   );
   // Exported menu link: menu-megamenu:node/12359
