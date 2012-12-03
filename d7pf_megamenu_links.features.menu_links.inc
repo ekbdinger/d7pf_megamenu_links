@@ -294,25 +294,6 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'weight' => '-50',
     'parent_path' => '<front>',
   );
-  // Exported menu link: menu-megamenu:node/15887
-  $menu_links['menu-megamenu:node/15887'] = array(
-    'menu_name' => 'menu-megamenu',
-    'link_path' => 'node/15887',
-    'router_path' => 'node/%',
-    'link_title' => 'Details - Assigning/ Reviewing PNs',
-    'options' => array(
-      'attributes' => array(
-        'title' => '',
-      ),
-    ),
-    'module' => 'menu',
-    'hidden' => '0',
-    'external' => '0',
-    'has_children' => '0',
-    'expanded' => '0',
-    'weight' => '-47',
-    'parent_path' => '<front>',
-  );
   // Exported menu link: menu-megamenu:node/16557
   $menu_links['menu-megamenu:node/16557'] = array(
     'menu_name' => 'menu-megamenu',
@@ -336,7 +317,6 @@ function d7pf_megamenu_links_menu_default_menu_links() {
   // Included for use with string extractors like potx.
   t('Anti-Coagulant FS');
   t('Check In - Check Out');
-  t('Details - Assigning/ Reviewing PNs');
   t('ERA');
   t('FQHC');
   t('Front Office');
