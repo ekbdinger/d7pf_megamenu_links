@@ -256,25 +256,6 @@ function d7pf_megamenu_links_menu_default_menu_links() {
     'weight' => '-45',
     'parent_path' => '<front>',
   );
-  // Exported menu link: menu-megamenu:node/15261
-  $menu_links['menu-megamenu:node/15261'] = array(
-    'menu_name' => 'menu-megamenu',
-    'link_path' => 'node/15261',
-    'router_path' => 'node/%',
-    'link_title' => 'Product Activation',
-    'options' => array(
-      'attributes' => array(
-        'title' => '',
-      ),
-    ),
-    'module' => 'menu',
-    'hidden' => '0',
-    'external' => '0',
-    'has_children' => '0',
-    'expanded' => '0',
-    'weight' => '-33',
-    'parent_path' => '<front>',
-  );
   // Exported menu link: menu-megamenu:node/15672
   $menu_links['menu-megamenu:node/15672'] = array(
     'menu_name' => 'menu-megamenu',
@@ -326,7 +307,6 @@ function d7pf_megamenu_links_menu_default_menu_links() {
   t('PN - Billing Info.');
   t('PT Assessment');
   t('Printing/ Faxing PNs');
-  t('Product Activation');
   t('Ryan White HIV/AIDS Program');
   t('Tel/Web Encounters');
   t('Therapeutic Int.');
